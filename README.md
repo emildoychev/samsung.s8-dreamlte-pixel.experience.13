@@ -14,7 +14,7 @@ Boot into TWRP Recovery -> Wipe/Format -> Install
 
 https://xdaforums.com/t/rom-13-unofficial-pixelexperience-for-s8-s8-and-note-8-19-10-2023.4637153/
 
-PixelExperience_dreamlte-13.0-20231019-1658-UNOFFICIAL.zip | ?? GB | 2023-10-19
+PixelExperience_dreamlte-13.0-20231019-1658-UNOFFICIAL.zip | 1.32 GB GB | 2023-10-19
 
 NB: Includes GApps and is a Pixel, no further flashing needed like Magisk
 
